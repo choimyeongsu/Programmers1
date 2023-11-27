@@ -1,0 +1,39 @@
+.main-wrap{
+    display:flex;
+    flex-direction: column;
+    margin:30px 150px;
+}
+.maintop-wrap{
+    border-bottom: 1px solid gray;
+}
+.maintop-introduce{
+    display:flex;
+}
+.maintop-introduce ul{
+    margin-top:10px;
+    margin-left: 50px;
+}
+.mainbtm-wrap{
+   font-weight: bold;
+   margin-top:20px;
+}
+.mainbtm-wrap h3{
+    margin-bottom:50px;
+}
+.main-wrap img{
+    width:400px;
+    height:200px;
+}
+
+.work{
+    display:flex;
+    margin-bottom:100px;
+}
+
+.work-content{
+    margin-left:50px;
+}
+
+a{
+    text-decoration: none;
+}
