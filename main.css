@@ -12,9 +12,13 @@
 }
 .maintop-btm{
     display:flex;
+    flex-direction: row;
 }
 .contact-me{
     margin-left:70px;
+}
+.contact-me li{
+    margin-left:19px;
 }
 .mainbtm-wrap{
    font-weight: bold;
