@@ -7,11 +7,14 @@
     border-bottom: 1px solid gray;
 }
 .maintop-introduce{
+    display: flex;
+    flex-direction: column;
+}
+.maintop-btm{
     display:flex;
 }
-.maintop-introduce ul{
-    margin-top:10px;
-    margin-left: 50px;
+.contact-me{
+    margin-left:70px;
 }
 .mainbtm-wrap{
    font-weight: bold;
